@@ -2,7 +2,7 @@ Sure! Here are the rearranged points with bold titles:
 
 ## Project Overview
 
-Welcome to my GitHub repository! This project focuses on conducting a comprehensive analysis of a Yelp reviews dataset using Natural Language Processing (NLP) techniques. The objective is to develop machine learning models for sentiment analysis and predict restaurant ratings based on Yelp reviews. Here are the key highlights of this project:
+This project focuses on conducting a comprehensive analysis of a Yelp reviews dataset using Natural Language Processing (NLP) techniques. The objective is to develop machine learning models for sentiment analysis and predict restaurant ratings based on Yelp reviews. Here are the key highlights of this project:
 
 **1. Text Cleaning Techniques for Dataset Uniformity**
    - Implemented text cleaning techniques to remove redundancy and ensure dataset uniformity.
